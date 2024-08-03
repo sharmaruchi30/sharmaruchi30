@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Wallpaper Application](https://github.com/imukulgehlot/slately)  
   
 
-- 🌱 I’m currently learning Docker and Node JS  
+- 🌱 I’m currently learning Docker and Node JS (and never stop learning new things about flutter) 
   
 
 - ❓ Ask me about anything related to Flutter and related technologies  
